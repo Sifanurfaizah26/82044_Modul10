@@ -8,6 +8,7 @@ android {
     namespace = "ac.id.umn.sifanurfaizah.authentication"
     compileSdk = 35
 
+
     defaultConfig {
         applicationId = "ac.id.umn.sifanurfaizah.authentication"
         minSdk = 24
